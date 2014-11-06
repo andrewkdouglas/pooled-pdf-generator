@@ -1,0 +1,27 @@
+server:
+  port: 3000
+logger:
+  logToConsole: false
+  logToFile: true
+  logDir: './log/'
+app:
+  phantom:
+    viewportSize:
+      width: 600
+      height: 600
+    paperSize:
+      format: 'A4'
+      orientation: 'portrait'
+      # margin: '2cm'
+    zoomFactor: 1
+    timeout: 12000
+  tmp:
+    mode: 0666
+    pattern: '/tmp/phantom-XXXXXX.pdf'
+  api:
+    pagetopdf: 'h224h6v6j34k2d3n'
+phantomPool:
+  phantomBinary: './vendors/phantomjs/bin/phantomjs'
+  poolMax: 2
+  poolMin: 1
+  poolIdleTime: 30000

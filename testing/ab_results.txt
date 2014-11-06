@@ -1,0 +1,157 @@
+Server Software:        
+Server Hostname:        freya.local
+Server Port:            3000
+
+Document Path:          /pagetopdf?url=http://spidergap.freya.local/assessments/3528/results/Z9aba2ha5pYWSlM5WGntsZWKxBKG3jHy
+Document Length:        3189297 bytes
+
+Concurrency Level:      10
+Time taken for tests:   161.653 seconds
+Complete requests:      100
+Failed requests:        0
+Write errors:           0
+Total transferred:      318958400 bytes
+HTML transferred:       318929700 bytes
+Requests per second:    0.62 [#/sec] (mean)
+Time per request:       16165.302 [ms] (mean)
+Time per request:       1616.530 [ms] (mean, across all concurrent requests)
+Transfer rate:          1926.86 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.9      0       8
+Processing:  9668 15832 1876.5  15727   21033
+Waiting:     9658 15805 1872.9  15709   20962
+Total:       9668 15833 1876.6  15727   21033
+
+Percentage of the requests served within a certain time (ms)
+  50%  15727
+  66%  16011
+  75%  16267
+  80%  16627
+  90%  17891
+  95%  20095
+  98%  20926
+  99%  21033
+ 100%  21033 (longest request)
+
+
+------------------------------------------------------------------------------------------
+
+
+Server Hostname:        freya.local
+Server Port:            3000
+
+Document Path:          /pagetopdf?url=http://spidergap.freya.local/assessments/3528/results/Z9aba2ha5pYWSlM5WGntsZWKxBKG3jHy
+Document Length:        3189297 bytes
+
+Concurrency Level:      2
+Time taken for tests:   13.832 seconds
+Complete requests:      6
+Failed requests:        1
+   (Connect: 0, Receive: 0, Length: 1, Exceptions: 0)
+Write errors:           0
+Total transferred:      15955709 bytes
+HTML transferred:       15953993 bytes
+Requests per second:    0.43 [#/sec] (mean)
+Time per request:       4610.638 [ms] (mean)
+Time per request:       2305.319 [ms] (mean, across all concurrent requests)
+Transfer rate:          1126.51 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.0      0       0
+Processing:  2871 4259 1069.3   4325    6101
+Waiting:     2871 4251 1065.3   4316    6087
+Total:       2871 4260 1069.3   4325    6101
+
+Percentage of the requests served within a certain time (ms)
+  50%   4325
+  66%   4325
+  75%   4529
+  80%   4529
+  90%   6101
+  95%   6101
+  98%   6101
+  99%   6101
+ 100%   6101 (longest request)
+
+------------------------------------------------------------------------------------------
+
+Server Software:
+Server Hostname:        freya.local
+Server Port:            3000
+
+Document Path:          /pagetopdf?url=http://spidergap.freya.local/assessments/3528/results/Z9aba2ha5pYWSlM5WGntsZWKxBKG3jHy
+Document Length:        3189297 bytes
+
+Concurrency Level:      3
+Time taken for tests:   10.766 seconds
+Complete requests:      6
+Failed requests:        0
+Write errors:           0
+Total transferred:      19137504 bytes
+HTML transferred:       19135782 bytes
+Requests per second:    0.56 [#/sec] (mean)
+Time per request:       5382.936 [ms] (mean)
+Time per request:       1794.312 [ms] (mean, across all concurrent requests)
+Transfer rate:          1735.95 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.0      0       0
+Processing:  4334 5179 758.0   5288    6376
+Waiting:     4323 5165 758.4   5272    6365
+Total:       4334 5179 758.0   5288    6377
+
+Percentage of the requests served within a certain time (ms)
+  50%   5288
+  66%   5288
+  75%   5477
+  80%   5477
+  90%   6377
+  95%   6377
+  98%   6377
+  99%   6377
+ 100%   6377 (longest request)
+
+------------------------------------------------------------------------------------------
+
+Server Software:
+Server Hostname:        freya.local
+Server Port:            3000
+
+Document Path:          /pagetopdf?url=http://spidergap.freya.local/assessments/3528/results/Z9aba2ha5pYWSlM5WGntsZWKxBKG3jHy
+Document Length:        3189297 bytes
+
+Concurrency Level:      12
+Time taken for tests:   176.478 seconds
+Complete requests:      100
+Failed requests:        1
+   (Connect: 0, Receive: 0, Length: 1, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      1
+Total transferred:      315769021 bytes
+HTML transferred:       315740441 bytes
+Requests per second:    0.57 [#/sec] (mean)
+Time per request:       21177.347 [ms] (mean)
+Time per request:       1764.779 [ms] (mean, across all concurrent requests)
+Transfer rate:          1747.35 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       2
+Processing:  7450 20590 4120.1  20182   32703
+Waiting:     7441 20562 4119.0  20164   32684
+Total:       7450 20591 4120.1  20182   32703
+
+Percentage of the requests served within a certain time (ms)
+  50%  20182
+  66%  20806
+  75%  22707
+  80%  24107
+  90%  26442
+  95%  27670
+  98%  29281
+  99%  32703
+ 100%  32703 (longest request)
